@@ -1,0 +1,2 @@
+# UX_UI_Evolution_Service_Existant
+Ce projet se situe dans la continuité de l'audit UX que j'avais réalisé quelques mois plus tôt pour le site Mamashelter. Ma nouvelle mission consistait à concevoir une nouvelle version du site, et plus précisément du parcours de réservation, en formalisant mes préconisations. Cette gestion de projet agile a nécessité la formation d'une équipe qui a su m'accompagner tout au long du processus de conception.
