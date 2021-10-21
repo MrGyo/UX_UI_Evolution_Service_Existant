@@ -1,7 +1,7 @@
 # UX/UI Design
 
 ## 📝 Faire évoluer un service existant
-Ce projet consistait à accompagner la société « Les cordons bleus » dans l'identification de nouvelles opportunités commerciales. La forte augmentation des demandes d’inscription représentait pour l’école une réelle opportunité de croissance. Il s’agissait non seulement de trouver les moyens de répondre à la demande actuelle mais aussi de profiter de cette opportunité pour réfléchir à un enrichissement de l’expérience client et à une plus grande diversification des services à proposer.
+Ce projet se situe dans la continuité de l'audit UX que j'avais réalisé quelques mois plus tôt pour le site web Mamashelter. Ma nouvelle mission consistait à concevoir une nouvelle version du site, et plus précisément du parcours de réservation, en formalisant mes préconisations. Cette gestion de projet agile a nécessité la formation d'une équipe qui a su m'accompagner tout au long du processus de conception.
 
 ## 🏆 Compétences évaluées 
 * Définir et réaliser un MVP
