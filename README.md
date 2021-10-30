@@ -1,9 +1,6 @@
 # UX/UI Design
 
-## 📝 Faire évoluer un service existant
-Ce projet se situe dans la continuité de l'audit UX que j'avais réalisé quelques mois plus tôt pour le site web Mamashelter. Ma nouvelle mission consistait à concevoir une nouvelle version du site, et plus précisément du parcours de réservation, en formalisant mes préconisations. Cette gestion de projet agile a nécessité la formation d'une équipe qui a su m'accompagner tout au long du processus de conception.
-
-## 🏆 Compétences évaluées 
+## 🏆 Compétences
 * Définir et réaliser un MVP
 * Intégrer le Lean UX dans un environnement Agile
 * Construire une roadmap projet
