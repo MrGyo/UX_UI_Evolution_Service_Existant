@@ -1,6 +1,6 @@
-# UX/UI Design - Faire évoluer un service existant
+## UX/UI - Faire évoluer un service existant 
 
-## 🏆 Compétences
+### 🏆 Compétences
 * Définir et réaliser un MVP
 * Intégrer le Lean UX dans un environnement Agile
 * Construire une roadmap projet
